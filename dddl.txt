@@ -1,0 +1,12 @@
+decimal("|") cust_idr;
+string("|") cust_name;
+decimal("|") age;
+decimal("|") amount=NULL("");
+string("\n") gender;
+end
+101|ram|30|100|M
+102|shyama|40|200|F
+103|kumar|50|300|M
+104|dave|60|400|M
+105|jim|70||M
+106|john|15|400|M
